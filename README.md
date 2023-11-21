@@ -26,6 +26,5 @@ URL Vault is a solution for effortlessly managing and organizing your favorite l
 
 ### Deleting Links
 
-- **Double-Click on Link:**
-  - Use the "DELETE ALL" button to delete all URL's
+- **Use the "DELETE ALL" button**
 
