@@ -17,16 +17,15 @@ URL Vault is your ultimate solution for effortlessly managing and organizing you
 ### Adding Links
 
 - **From Current Tab:**
-  - Click the "Add Link from Current Tab" button.
+  - Click the "SAVE TAB" button.
   - The current tab's URL will be added to the list.
 
 - **Manual Entry:**
   - Type a URL into the input field.
-  - Click the "Add Link" button.
+  - Click the "SAVE INPUT" button.
 
 ### Deleting Links
 
 - **Double-Click on Link:**
-  - Double-click on a link to delete it.
-  - Alternatively, use the "Delete All" button.
+  - Use the "DELETE ALL" button to delete all URL's
 
