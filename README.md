@@ -2,7 +2,7 @@
 
 ## Description
 
-URL Vault is your ultimate solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference. Keep track of important web content, articles, or videos, and access them whenever you need with a single click.
+URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
 
 ## Installation
 
