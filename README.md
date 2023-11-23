@@ -1,5 +1,7 @@
 # Chrome Extension "URL Vault"
 
+<img src="Screenshot.png" alt="Project Image" width="300"/>
+
 ## Description
 
 URL Vault is a solution for effortlessly managing and organizing your favorite links and web pages. With this Chrome extension, you can easily save URLs from your current tab or manually enter links for future reference.
