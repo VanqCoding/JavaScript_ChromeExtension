@@ -1,6 +1,6 @@
 # Chrome Extension "URL Vault"
 
-<img src="Screenshot.png" alt="Project Image" width="300"/>
+<img src="Screenshot.png" alt="Project Image" width="600"/>
 
 ## Description
 
